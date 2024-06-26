@@ -56,6 +56,10 @@ It has features such as:
 - Built-in networking
 - Multi-language by design
 
+## PineyEvent
+
+[PineyEvent](https://github.com/hohfchns/pineyevent) is a very lightweight and simple signal/event library for Python
+
 ## Moka Engine
 
 ![Moka](https://github.com/hohfchns/hohfchns/assets/57037334/72ed2bd0-d2e6-49cd-a5cb-beced5e2c487)
