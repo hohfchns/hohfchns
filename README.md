@@ -19,11 +19,11 @@ DeshanimQuest is my in-development game, it is a fun and cheerful RPG game, made
 
 DialogueQuest is a Dialogue system for Godot, which makes it easy to create portrayals of characters speaking, thinking, etc.
 
-The main feature of DialogueQuest is the additional software that goes along with it:
-
 DialogueQuest has a focus on user experience, as well as documentation for both users and developers.
 
 It features up-to-date manuals on how to use the program from both a dialogue writer perspective, as well as a developer-using-the-plugin perspective.
+
+One of the main features of DialogueQuest is the additional software that goes along with it:
 
 ## DialogueQuestTester
 
