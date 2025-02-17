@@ -5,8 +5,6 @@ I often work on game-related projects, especially projects using the [Godot Engi
 
 ## Some of my projects
 
-*Ordered by most recent to least*
-
 ## DialogueQuest
 
 ![DIQ_1](https://github.com/hohfchns/hohfchns/assets/57037334/641eb2a5-4580-4cc3-8065-1d1f7b5a948e)
