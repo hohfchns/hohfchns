@@ -7,12 +7,6 @@ I often work on game-related projects, especially projects using the [Godot Engi
 
 *Ordered by most recent to least*
 
-## DeshanimQuest
-
-https://github.com/hohfchns/hohfchns/assets/57037334/96d89897-0108-4812-aef8-b5a3a260b442
-
-DeshanimQuest is my in-development game, it is a fun and cheerful RPG game, made in Godot.
-
 ## DialogueQuest
 
 ![DIQ_1](https://github.com/hohfchns/hohfchns/assets/57037334/641eb2a5-4580-4cc3-8065-1d1f7b5a948e)
